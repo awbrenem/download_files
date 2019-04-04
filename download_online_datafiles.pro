@@ -31,7 +31,7 @@
 ;-
 
 
-pro download_online_files,rp,rf,lp,files_loaded=files
+pro download_online_datafiles,rp,rf,lp,files_loaded=files
 
 
 ;  rp = 'http://themis.ssl.berkeley.edu/data/themis/tha/l2/efi/2013/'
