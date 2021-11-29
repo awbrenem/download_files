@@ -1,0 +1,6 @@
+##Download all of the RBSP EFW software that Sheng has stored online
+
+
+
+wget --recursive --no-parent http://rbsp.space.umn.edu/rbsp_efw/codes/
+
